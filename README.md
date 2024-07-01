@@ -1,6 +1,6 @@
 # Hafiz Hammad Ahmed
 ### AI Engineer from `   Pakistan   ` &nbsp; &nbsp; <img src="https://images.emojiterra.com/twitter/512px/1f1f5-1f1f0.png" height=20 width=20 /> &nbsp;
-- 🎓 BS `Artificial Intelligence` Undergrad at <a href="http://isb.nu.edu.pk/" target="_blank" rel="noreferrer"> ` Fast National University Of Computer Sciences ` </a>
+- 🎓 BS `Artificial Intelligence` Undergrad at <a href="http://isb.nu.edu.pk/" target="_blank" rel="noreferrer"> ` Fast National University Of Computer & Emerging Sciences ` </a>
 - 📧 Drop Me An <a href="mailto: hafizhammadahmedofficial@gmail.com" target="blank">`Email`</a> <br>
 
 <h2 align="left">Socials: </h2>
